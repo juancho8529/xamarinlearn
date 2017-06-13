@@ -1,0 +1,4 @@
+CapturaPantalla.MainActivity, CapturaPantalla;md581975be48b88d2c924506669ad250b41.MainActivity
+CapturaPantalla.MainActivity, CapturaPantalla, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md581975be48b88d2c924506669ad250b41.MainActivity
+CapturaPantalla.MainActivity;md581975be48b88d2c924506669ad250b41.MainActivity
+capturapantalla.MainActivity;md581975be48b88d2c924506669ad250b41.MainActivity

@@ -1,0 +1,5 @@
+E:\XAMARIN\CapturaPantalla\PortableLibrary\bin\Debug\PortableLibrary.dll
+E:\XAMARIN\CapturaPantalla\PortableLibrary\bin\Debug\PortableLibrary.pdb
+E:\XAMARIN\CapturaPantalla\PortableLibrary\obj\Debug\PortableLibrary.csprojResolveAssemblyReference.cache
+E:\XAMARIN\CapturaPantalla\PortableLibrary\obj\Debug\PortableLibrary.dll
+E:\XAMARIN\CapturaPantalla\PortableLibrary\obj\Debug\PortableLibrary.pdb
